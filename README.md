@@ -6,8 +6,9 @@
 <div align="left">
   <a href="https://github.com/Victoralecrim">
   <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/> </a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victoralecrim&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Victoralecrim&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Victoralecrim-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Victoralecrim-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
