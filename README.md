@@ -5,7 +5,7 @@
 
 <div align="left">
   <a href="https://github.com/Victoralecrim">
-  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/> </a>
+ 
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Victoralecrim&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
