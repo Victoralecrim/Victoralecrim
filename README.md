@@ -18,7 +18,8 @@
   <img align="center" alt="Victoralecrim-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
   <img align="center" alt="Victoralecrim-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-
+  
+  <img align="center" alt="Victoralecrim-Java"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   
  <img align="center" alt="Victoralecrim-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
           
