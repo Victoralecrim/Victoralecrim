@@ -1,6 +1,6 @@
 ## <h1> Olá! Meu nome é victor Alecrim  🐱‍👤👋</h1>
 
-- 🌱 Estudante de Desenvolvimento Front End e Back End
+- 🌱 Estudante de Desenvolvimento Full Stack 
 - 🐱‍💻 victorcarmoalecrim@gmail.com
 
 <div align="left">
