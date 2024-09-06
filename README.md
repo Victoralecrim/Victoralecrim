@@ -1,7 +1,7 @@
 ## <h1> Olá! Meu nome é victor Alecrim 👋</h1>
 
--  Estudante de Ciência da Computação - 2° Período, apaixonado por desenvolvimento web e interessado em aprender mais sobre Desenvolvimento. 
--  Meu objetivo é me tornar um desenvolvedor full-stack experiente e contribuir para projetos inovadores.
+-  Estudante de Ciência da Computação - 2° Período, apaixonado por desenvolvimento web e interessado em aprender mais sobre a área de TI e sua ampla rede de oportunidades. 
+-  Meu objetivo é me tornar um desenvolvedor full-stack experiente e contribuir para projetos inovadores. Além de visar sempre aprimorar meus conhecimentos adquiridos ao longo dessa jornada
 - ‍ Email de contato: victoralecrimdev@gmail.com
 
 <div align="left">
